@@ -5,7 +5,7 @@ Hi there, I'm Tarathep Siriuthen 👋
 
 I build business and enterprise systems end to end, from requirements and database design to CI/CD and production support. Lately: multi-tenant platforms, role-based access across organisations, and SQL performance tuning.
 
-*   💼  3 years at Digix Technology: gig platforms, a multi-tenant hospital system, enterprise document management, AI chatbots
+*   💼  3 years as Full-stack Developer: gig platforms, a multi-tenant hospital system, enterprise document management, AI chatbots
 *   🧭  Led the technical design of a greenfield system and guided junior developers
 *   🌍  Based in Thailand
 *   ✉️  You can contact me at [t.siriuthen@gmail.com](mailto:t.siriuthen@gmail.com)
